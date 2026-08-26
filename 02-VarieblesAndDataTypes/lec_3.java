@@ -35,7 +35,9 @@ public class lec_3 {
         //Literals, Variables, and Constants
 
         final int MAX_ATTEMPTS = 3;
-        // just like js its like const  
+        // just like js its like const, can not be changed because the "final"
+        
+
     }
 
 }
