@@ -30,8 +30,6 @@ public class lec_3 {
 
 
 
-
-
         //Literals, Variables, and Constants
 
         final int MAX_ATTEMPTS = 3;
