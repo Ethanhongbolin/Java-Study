@@ -1,4 +1,6 @@
-public class lec_3 {
+import java.util.Scanner;
+
+public class DataType2 {
     public static void main(String[] args) {
         //ASSIGN BEFORE READING
         int count;                     //VALID
@@ -34,7 +36,7 @@ public class lec_3 {
 
         final int MAX_ATTEMPTS = 3;
         // just like js its like const, can not be changed because the "final"
-        
+
 
     }
 

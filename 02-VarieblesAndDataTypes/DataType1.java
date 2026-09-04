@@ -1,4 +1,4 @@
-public class Lec_2 {
+public class DataType1 {
     public static void main(String[] args) {
         System.out.println(123); //Integer
         System.out.println(0.125); //Floating Point Number
@@ -14,12 +14,13 @@ public class Lec_2 {
         String message1 = " ";
         System.out.println();
 
-        
         String ethan_Last_name = "Lin";
         System.out.println(ethan_Last_name);
         System.out.println(message);
         System.out.println(message1);
         
+        System.out.println(age);
+        System.out.println(your_name);
     }
 }
 
