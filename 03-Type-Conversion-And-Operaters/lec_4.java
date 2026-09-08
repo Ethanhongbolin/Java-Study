@@ -1,5 +1,10 @@
+
+
 public class lec_4 {
+    
     public static void main(String[] args) {
+        
+
         System.out.println("hello");
         System.out.println(7 / 2); //3             
         System.out.println(7.0 / 2); //3.5
@@ -54,5 +59,27 @@ public class lec_4 {
         double decimal2 = 0.384628463847364;
         System.out.println(decimal);
         System.out.println(decimal2);
+        
+        //Assignment and increment operator
+        int score = 10; //10
+        score += 5; //10 
+        score *= 2;
+        //anything below is called prefix and postfix
+        count++;
+        count--;
+
+        int x = 5; //5
+        int a = x++;   // a is 5 but x becomes 6     postfix
+        System.out.println(x);  //6  
+        System.out.println(a);  //5
+        
+        int b = ++x;  //prefix 
+        System.out.println(b);
+        System.out.println(x);
+
+
+        
+
+
     }
 }
