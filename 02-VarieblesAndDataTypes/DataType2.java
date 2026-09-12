@@ -11,7 +11,7 @@ public class DataType2 {
         
         //DO NOT REDECLARE A NAME IN OVERLAPPING SCOPE
         int score = 10;
-        double score = 20.0;                //ERROR  Can not change type of varible by using this method after it's been created
+        //double score = 20.0;                //ERROR  Can not change type of varible by using this method after it's been created
 
 
 
@@ -19,7 +19,7 @@ public class DataType2 {
         {
             int inside = 40;              
         }
-        System.out.println(inside);           //Can not access inside scope ERROR         *ALL CURLY BRACKET{} are scopes
+        //System.out.println(inside);           //Can not access inside scope ERROR         *ALL CURLY BRACKET{} are scopes
 
         
         

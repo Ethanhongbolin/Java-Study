@@ -45,6 +45,6 @@ public class Input {
         IO.println("Age: " + age2);
         IO.println("Height: " + height2);
 
-
+        
     }
 }
